@@ -13,7 +13,7 @@ There are 4 printed parts:
 -  Belt Clamp - This houses a captive M5 nut. There is also some additional room for an M5 bolt to extend past the M5 nut. It will break though a thin 0.2mm layer which was put in place to support creating the hole above the captive nut.
 -  Pivot Joint - This allows for free movement above the GE5C bearing and is anchored along with the Belt Clamp to the the lower part of the 2020 extrusions with 1 M5x20 BHCS and 1 M3x20 SHCS bolts.
 -  Body - The holds the GE5C bearing captive a single M5x20 BHCS which is thread up through the GE5C bearing, Joint, and into the captive M5 nut
--  Face - Secures the body to the MGN9H carriage and locks the GE5C bearing in place with 4x M3x20 SHCS bolts
+-  Face - Secures the body to the MGN9H carriage and locks the GE5C bearing in place with 4x M3x20 SHCS bolts.  There is a thin 0.2mm bridging layer that the M3 bolts push through that was create to support bolt holes during printing.
 
 Required Hardware for 4x Z Joints
 

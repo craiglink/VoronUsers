@@ -22,7 +22,7 @@ Required Hardware for 4x Z Joints
 - 8x  M5x20 BHSC bolts
 - 4x  M5 nuts
 
-![Required Parts](required_parts.png)
+![Required Parts](Images/required_parts.png)
 
 Note: These were built as I been mod'ing and building my first VORON 2.4, so they actually haven't been used in printing yet and may need an additional variation for endstops.
 
